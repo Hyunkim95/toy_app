@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Toy App
 
+This was an excercise within a Ruby On Rails Tutorial
 
 
 
